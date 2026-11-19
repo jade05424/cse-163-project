@@ -1,0 +1,6 @@
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+statsmodels==0.15.0
+flake8==7.5.0
